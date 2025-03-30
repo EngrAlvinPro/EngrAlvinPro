@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alvin</h1>
-<h3 align="center">A passionate Platform Operations Engineer from The Philippines</h3>
+<h3 align="center">A passionate IT Professional and Engineer from The Philippines</h3>
 
 
 - 🔭 I’m currently working on **Personal DevOps Projects**
